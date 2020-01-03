@@ -10,12 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fflskh/kafka-error-retry.git"
+    "url": "git+https://github.com/fflskh/umeng-stats-sdk.git"
   },
   "keywords": [
     "umeng",
     "statistic"
   ],
   "author": "liuhao",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "hmacsha1": "^1.0.0"
+  }
 }
