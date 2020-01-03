@@ -1,6 +1,6 @@
 {
   "name": "umeng-stats-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "友盟统计SDK",
   "main": "dist/index.js",
   "scripts": {
