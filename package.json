@@ -1,0 +1,21 @@
+{
+  "name": "umeng-stats-sdk",
+  "version": "0.1.0",
+  "description": "友盟统计SDK",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "pub": "rm -rf dist/ && tsc -p . && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fflskh/kafka-error-retry.git"
+  },
+  "keywords": [
+    "umeng",
+    "statistic"
+  ],
+  "author": "liuhao",
+  "license": "ISC"
+}
